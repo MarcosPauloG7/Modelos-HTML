@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+#buy1{
+    color:  white;
+    background-color: #4CAF50; /* Cor de fundo */
+    border: 25pt;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    font-size: 16px;S
+}
+#buy2{
+    color:  white;
+    background-color: #4CAF50; /* Cor de fundo */
+    border: 40pt;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    font-size: 16px;
+}
+#buy3{
+    color:  white;
+    background-color: #4CAF50; /* Cor de fundo */
+    border: 40pt;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    font-size: 16px;
+}
+#buy4{
+    color:  white;
+    background-color: #4CAF50; /* Cor de fundo */
+    border: 40pt;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    font-size: 16px;
+}
+.titulo{
+    text-align: center;
+}
+
+
