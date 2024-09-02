@@ -44,5 +44,8 @@ img{
 .titulo{
     text-align: center;
 }
+.produto{
+    float: left;
+}
 
 
